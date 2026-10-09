@@ -1,4 +1,4 @@
-# 👁️ Système d'assistance visuelle en temps réel — YOLOv8
+# 👁️ Système d'assistance visuelle en temps réel - YOLOv8
 
 Application Python de détection d'objets en temps réel via webcam, basée sur **YOLOv8**. Le programme compte le nombre de personnes présentes à l'écran et déclenche une alerte visuelle lorsqu'un objet cible (configurable) est détecté.
 
