@@ -12,8 +12,8 @@ Application Python de détection d'objets en temps réel via webcam, basée sur 
 ## 🛠️ Stack technique
 
 - **Python 3**
-- **[Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)** — détection d'objets
-- **OpenCV** — capture et affichage vidéo
+- **[Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)** - détection d'objets
+- **OpenCV** - capture et affichage vidéo
 
 ## 📦 Installation
 
